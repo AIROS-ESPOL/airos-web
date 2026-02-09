@@ -1,5 +1,5 @@
-url: https://airos-espol.github.io/airos.github.io/
-baseurl: /airos.github.io
+url: https://airos-espol.github.io/airos-web/
+baseurl: /airos-web
 
 # Site settings
 title: AIROS
@@ -19,5 +19,3 @@ social:
 markdown: kramdown
 permalink: pretty
 
-
-theme: jekyll-theme-minimal
